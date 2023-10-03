@@ -41,7 +41,7 @@ namespace PatientManagementSys
             // Save to the database
             sda.SelectCommand.ExecuteNonQuery();
 
-            MessageBox.Show("Appointment saved with success ");
+            MessageBox.Show("Appointment requested");
             Login loginForm = new Login();
             this.Hide();
             loginForm.Show();
