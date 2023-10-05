@@ -46,7 +46,7 @@ namespace PatientManagementSys
 
             sda.SelectCommand.ExecuteNonQuery();
             conn.Close();
-            MessageBox.Show("Succesful");
+            MessageBox.Show("Succesful Updated!!");
             Doctor rq = new Doctor();
             this.Hide();
             rq.Show();
