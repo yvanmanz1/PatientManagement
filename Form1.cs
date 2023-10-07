@@ -29,7 +29,7 @@ namespace PatientManagementSys
         {
 
         }
-        SqlConnection conn = new SqlConnection(@"Data Source=Yvan-PC\SQLEXPRESS;Initial Catalog=StudentPortalDB;Integrated Security=True");
+        SqlConnection conn = new SqlConnection(@"Data Source=Yvan-PC\SQLEXPRESS;Initial Catalog=HospitalPortalDB;Integrated Security=True");
         private void submitButton_Click(object sender, EventArgs e)
         {
             
