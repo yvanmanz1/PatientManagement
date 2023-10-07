@@ -22,7 +22,7 @@ namespace PatientManagementSys
             dataGridView.Dock = DockStyle.Bottom;
             dataGridView.ReadOnly = true;
             this.Controls.Add(dataGridView);
-            SqlConnection conn = new SqlConnection(@"Data Source=Yvan-PC\SQLEXPRESS;Initial Catalog=StudentPortalDB;Integrated Security=True");
+            SqlConnection conn = new SqlConnection(@"Data Source=Yvan-PC\SQLEXPRESS;Initial Catalog=HospitalPortalDB;Integrated Security=True");
             string query = "SELECT * FROM Appointments";
 
 
