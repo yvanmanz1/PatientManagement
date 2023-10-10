@@ -28,9 +28,9 @@ namespace PatientManagementSys
         {
             String fullName = fnameBox.Text + " " + lnameBox.Text;
             String email = emailBox.Text;
-            String reason = reasonBox.Text;
+            String rsn = reasonBox.Text;
             String date = dateTimePicker.Text;
-            String query = "INSERT INTO Appointments(fullnames, email, reason, date) Values('" + fullName + "','" + email + "','" + reason + "','" + date + "')";
+            String query = "INSERT INTO Appointments(fullnames, email, reason, date) Values('" + fullName + "','" + email + "','" + rsn + "','" + date + "')";
             SqlDataAdapter sda = new SqlDataAdapter(query, conn);
             conn.Open();
             // Save to the database
