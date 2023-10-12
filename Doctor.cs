@@ -20,7 +20,7 @@ namespace PatientManagementSys
             DataGridView dataGridView = new DataGridView();
             dataGridView.Dock = DockStyle.Fill;
             dataGridView.Dock = DockStyle.Bottom;
-            dataGridView.ReadOnly = true;
+            dataGridView.ReadOnly = false;
             this.Controls.Add(dataGridView);
             SqlConnection conn = new SqlConnection(@"Data Source=Yvan-PC\SQLEXPRESS;Initial Catalog=HospitalPortalDB;Integrated Security=True");
             string query = "SELECT * FROM Patients";
@@ -38,9 +38,9 @@ namespace PatientManagementSys
         SqlConnection conn = new SqlConnection(@"Data Source=Yvan-PC\SQLEXPRESS;Initial Catalog=HospitalPortalDB;Integrated Security=True");
         private void button1_Click(object sender, EventArgs e)
         {
-            Handle dh = new Handle();
+            Handle handle = new Handle();
             this.Hide();
-            dh.Show();
+            handle.Show();
         }
     }
 }
