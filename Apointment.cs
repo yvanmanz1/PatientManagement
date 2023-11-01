@@ -37,7 +37,7 @@ namespace PatientManagementSys
             sda.SelectCommand.ExecuteNonQuery();
             conn.Close();
 
-            MessageBox.Show("Appointment requested Succesfully");
+            MessageBox.Show("Appointment requested was succesful");
             Login loginForm = new Login();
             this.Hide();
             loginForm.Show();
