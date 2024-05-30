@@ -1,0 +1,13 @@
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\PatientManagementSys\PatientManagementSys\bin\Debug\PatientManagementSys.exe.config
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\PatientManagementSys\PatientManagementSys\obj\Debug\PatientManagementSys.csprojResolveAssemblyReference.cache
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\PatientManagementSys\PatientManagementSys\obj\Debug\PatientManagementSys.Apointment.resources
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\PatientManagementSys\PatientManagementSys\obj\Debug\PatientManagementSys.Form1.resources
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\PatientManagementSys\PatientManagementSys\obj\Debug\PatientManagementSys.Login.resources
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\PatientManagementSys\PatientManagementSys\obj\Debug\PatientManagementSys.Properties.Resources.resources
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\PatientManagementSys\PatientManagementSys\obj\Debug\PatientManagementSys.csproj.GenerateResource.Cache
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\PatientManagementSys\PatientManagementSys\bin\Debug\PatientManagementSys.exe
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\PatientManagementSys\PatientManagementSys\bin\Debug\PatientManagementSys.pdb
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\PatientManagementSys\PatientManagementSys\obj\Debug\PatientManagementSys.Doctor.resources
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\PatientManagementSys\PatientManagementSys\obj\Debug\PatientManagementSys.Handle.resources
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\PatientManagementSys\PatientManagementSys\obj\Debug\PatientManagementSys.exe
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\PatientManagementSys\PatientManagementSys\obj\Debug\PatientManagementSys.pdb
